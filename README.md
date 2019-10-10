@@ -1,4 +1,1 @@
-# estoque_modelagem........
-<?php
-echo 'teste';
-</?
+# estoque_modelagem. é nóis
